@@ -1,0 +1,25 @@
+@media only screen and (max-width: 640px) {
+  .hero-section {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  #profile-section {
+    border: 2px solid solid rgba(255, 255, 255, 0.5);
+    width: 300px;
+    height: 190px;
+    padding: 20px 30px;
+  }
+  #profile-section h1 {
+    font-size: 40px;
+  }
+  #profile-section p {
+    font-size: 20px;
+  }
+  #profile-section button {
+    padding: 6px 10px;
+  }
+  #profile-section button a {
+    font-size: 15px;
+  }
+}
